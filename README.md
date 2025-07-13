@@ -170,7 +170,7 @@ Pilih menu [1-6]: 3
 
 ## Pembuat
 
-Nama: [Ahmad Agie Munawar]\
-NIM: [2310010659]\
-Prodi: [Teknik Informatika]
+Nama: Ahmad Agie Munawar\
+NIM: 2310010659\
+Prodi: Teknik Informatika
 
